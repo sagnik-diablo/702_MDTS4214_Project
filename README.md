@@ -1,1 +1,1 @@
-# 702_MDTS4214_Project
+The dataset for my final project for semester 2
